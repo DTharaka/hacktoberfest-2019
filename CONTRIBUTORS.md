@@ -627,3 +627,8 @@
 - Place: Colombo, Sri Lanka
 - Bio: Undergraduate
 - GitHub: [NavodaKaluarachchi](https://github.com/NavodaKaluarachchi)
+
+#### Name: [Tharaka Dilruk](https://github.com/DTharaka)
+- Place: Colombo, Sri Lanka
+- Bio: Undergraduate
+- GitHub: [DTharaka](https://github.com/DTharaka)
